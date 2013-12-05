@@ -1,0 +1,26 @@
+E:\Boston Bean Coffee Bar\bostonbeanorderforms\bostonbeanorderforms\bin\Debug\Boston Bean Coffee Bar.exe.manifest
+E:\Boston Bean Coffee Bar\bostonbeanorderforms\bostonbeanorderforms\bin\Debug\Boston Bean Coffee Bar.application
+E:\Boston Bean Coffee Bar\bostonbeanorderforms\bostonbeanorderforms\bin\Debug\Boston Bean Coffee Bar.exe
+E:\Boston Bean Coffee Bar\bostonbeanorderforms\bostonbeanorderforms\bin\Debug\Boston Bean Coffee Bar.pdb
+E:\Boston Bean Coffee Bar\bostonbeanorderforms\bostonbeanorderforms\bin\Debug\Boston Bean Coffee Bar.xml
+E:\Boston Bean Coffee Bar\bostonbeanorderforms\bostonbeanorderforms\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Boston Bean Coffee Bar\bostonbeanorderforms\bostonbeanorderforms\obj\x86\Debug\bostonbeancoffeebar.Benefits.resources
+E:\Boston Bean Coffee Bar\bostonbeanorderforms\bostonbeanorderforms\obj\x86\Debug\bostonbeancoffeebar.frmBookRental.resources
+E:\Boston Bean Coffee Bar\bostonbeanorderforms\bostonbeanorderforms\obj\x86\Debug\bostonbeancoffeebar.frmReciept.resources
+E:\Boston Bean Coffee Bar\bostonbeanorderforms\bostonbeanorderforms\obj\x86\Debug\bostonbeancoffeebar.frmHot.resources
+E:\Boston Bean Coffee Bar\bostonbeanorderforms\bostonbeanorderforms\obj\x86\Debug\bostonbeancoffeebar.frmCold.resources
+E:\Boston Bean Coffee Bar\bostonbeanorderforms\bostonbeanorderforms\obj\x86\Debug\bostonbeancoffeebar.frmDefaultCashier.resources
+E:\Boston Bean Coffee Bar\bostonbeanorderforms\bostonbeanorderforms\obj\x86\Debug\bostonbeancoffeebar.frmPastries.resources
+E:\Boston Bean Coffee Bar\bostonbeanorderforms\bostonbeanorderforms\obj\x86\Debug\bostonbeancoffeebar.Inventory.resources
+E:\Boston Bean Coffee Bar\bostonbeanorderforms\bostonbeanorderforms\obj\x86\Debug\bostonbeancoffeebar.MainForm.resources
+E:\Boston Bean Coffee Bar\bostonbeanorderforms\bostonbeanorderforms\obj\x86\Debug\bostonbeancoffeebar.Resources.resources
+E:\Boston Bean Coffee Bar\bostonbeanorderforms\bostonbeanorderforms\obj\x86\Debug\bostonbeancoffeebar.Payroll.resources
+E:\Boston Bean Coffee Bar\bostonbeanorderforms\bostonbeanorderforms\obj\x86\Debug\bostonbeancoffeebar.SOrdering.resources
+E:\Boston Bean Coffee Bar\bostonbeanorderforms\bostonbeanorderforms\obj\x86\Debug\bostonbeancoffeebar.Supply2.resources
+E:\Boston Bean Coffee Bar\bostonbeanorderforms\bostonbeanorderforms\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Boston Bean Coffee Bar\bostonbeanorderforms\bostonbeanorderforms\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Boston Bean Coffee Bar\bostonbeanorderforms\bostonbeanorderforms\obj\x86\Debug\Boston Bean Coffee Bar.exe.manifest
+E:\Boston Bean Coffee Bar\bostonbeanorderforms\bostonbeanorderforms\obj\x86\Debug\Boston Bean Coffee Bar.application
+E:\Boston Bean Coffee Bar\bostonbeanorderforms\bostonbeanorderforms\obj\x86\Debug\Boston Bean Coffee Bar.exe
+E:\Boston Bean Coffee Bar\bostonbeanorderforms\bostonbeanorderforms\obj\x86\Debug\Boston Bean Coffee Bar.xml
+E:\Boston Bean Coffee Bar\bostonbeanorderforms\bostonbeanorderforms\obj\x86\Debug\Boston Bean Coffee Bar.pdb

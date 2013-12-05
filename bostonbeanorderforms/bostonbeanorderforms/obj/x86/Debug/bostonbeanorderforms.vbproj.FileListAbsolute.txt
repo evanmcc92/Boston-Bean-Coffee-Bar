@@ -1,0 +1,76 @@
+\\ssomfs2\shome\eamccullough\my documents\visual studio 2010\Projects\bostonbeanorderforms\bostonbeanorderforms\bin\Debug\bostonbeanorderforms.exe
+\\ssomfs2\shome\eamccullough\my documents\visual studio 2010\Projects\bostonbeanorderforms\bostonbeanorderforms\bin\Debug\bostonbeanorderforms.pdb
+\\ssomfs2\shome\eamccullough\my documents\visual studio 2010\Projects\bostonbeanorderforms\bostonbeanorderforms\bin\Debug\bostonbeanorderforms.xml
+\\ssomfs2\shome\eamccullough\my documents\visual studio 2010\Projects\bostonbeanorderforms\bostonbeanorderforms\obj\x86\Debug\ResolveAssemblyReference.cache
+\\ssomfs2\shome\eamccullough\my documents\visual studio 2010\Projects\bostonbeanorderforms\bostonbeanorderforms\obj\x86\Debug\WindowsApplication1.frmHot.resources
+\\ssomfs2\shome\eamccullough\my documents\visual studio 2010\Projects\bostonbeanorderforms\bostonbeanorderforms\obj\x86\Debug\WindowsApplication1.frmCold.resources
+\\ssomfs2\shome\eamccullough\my documents\visual studio 2010\Projects\bostonbeanorderforms\bostonbeanorderforms\obj\x86\Debug\WindowsApplication1.frmDefault.resources
+\\ssomfs2\shome\eamccullough\my documents\visual studio 2010\Projects\bostonbeanorderforms\bostonbeanorderforms\obj\x86\Debug\WindowsApplication1.frmPastries.resources
+\\ssomfs2\shome\eamccullough\my documents\visual studio 2010\Projects\bostonbeanorderforms\bostonbeanorderforms\obj\x86\Debug\WindowsApplication1.Resources.resources
+\\ssomfs2\shome\eamccullough\my documents\visual studio 2010\Projects\bostonbeanorderforms\bostonbeanorderforms\obj\x86\Debug\GenerateResource.read.1.tlog
+\\ssomfs2\shome\eamccullough\my documents\visual studio 2010\Projects\bostonbeanorderforms\bostonbeanorderforms\obj\x86\Debug\GenerateResource.write.1.tlog
+\\ssomfs2\shome\eamccullough\my documents\visual studio 2010\Projects\bostonbeanorderforms\bostonbeanorderforms\obj\x86\Debug\bostonbeanorderforms.exe
+\\ssomfs2\shome\eamccullough\my documents\visual studio 2010\Projects\bostonbeanorderforms\bostonbeanorderforms\obj\x86\Debug\bostonbeanorderforms.xml
+\\ssomfs2\shome\eamccullough\my documents\visual studio 2010\Projects\bostonbeanorderforms\bostonbeanorderforms\obj\x86\Debug\bostonbeanorderforms.pdb
+\\ssomfs2\shome\eamccullough\my documents\visual studio 2010\Projects\bostonbeanorderforms\bostonbeanorderforms\obj\x86\Debug\WindowsApplication1.frmReciept.resources
+C:\Users\Evan\Dropbox\isom 314\bostonbeanorderforms\bostonbeanorderforms\obj\x86\Debug\bostonbeanorderforms.vbproj.GenerateResource.Cache
+C:\Users\Evan\Dropbox\isom 314\bostonbeanorderforms\bostonbeanorderforms\bin\Debug\bostonbeancoffeebar.exe
+C:\Users\Evan\Dropbox\isom 314\bostonbeanorderforms\bostonbeanorderforms\bin\Debug\bostonbeancoffeebar.pdb
+C:\Users\Evan\Dropbox\isom 314\bostonbeanorderforms\bostonbeanorderforms\bin\Debug\bostonbeancoffeebar.xml
+C:\Users\Evan\Dropbox\isom 314\bostonbeanorderforms\bostonbeanorderforms\obj\x86\Debug\bostonbeancoffeebar.frmBookRental.resources
+C:\Users\Evan\Dropbox\isom 314\bostonbeanorderforms\bostonbeanorderforms\obj\x86\Debug\bostonbeancoffeebar.frmDefault.resources
+C:\Users\Evan\Dropbox\isom 314\bostonbeanorderforms\bostonbeanorderforms\obj\x86\Debug\bostonbeancoffeebar.frmReciept.resources
+C:\Users\Evan\Dropbox\isom 314\bostonbeanorderforms\bostonbeanorderforms\obj\x86\Debug\bostonbeancoffeebar.frmHot.resources
+C:\Users\Evan\Dropbox\isom 314\bostonbeanorderforms\bostonbeanorderforms\obj\x86\Debug\bostonbeancoffeebar.frmCold.resources
+C:\Users\Evan\Dropbox\isom 314\bostonbeanorderforms\bostonbeanorderforms\obj\x86\Debug\bostonbeancoffeebar.frmDefaultCashier.resources
+C:\Users\Evan\Dropbox\isom 314\bostonbeanorderforms\bostonbeanorderforms\obj\x86\Debug\bostonbeancoffeebar.frmPastries.resources
+C:\Users\Evan\Dropbox\isom 314\bostonbeanorderforms\bostonbeanorderforms\obj\x86\Debug\bostonbeancoffeebar.Resources.resources
+C:\Users\Evan\Dropbox\isom 314\bostonbeanorderforms\bostonbeanorderforms\obj\x86\Debug\bostonbeancoffeebar.exe
+C:\Users\Evan\Dropbox\isom 314\bostonbeanorderforms\bostonbeanorderforms\obj\x86\Debug\bostonbeancoffeebar.xml
+C:\Users\Evan\Dropbox\isom 314\bostonbeanorderforms\bostonbeanorderforms\obj\x86\Debug\bostonbeancoffeebar.pdb
+\\ssomfs2\shome\eamccullough\My Documents\Downloads\bostonbeanorderforms\bostonbeanorderforms\bostonbeanorderforms\obj\x86\Debug\bostonbeancoffeebar.exe
+\\ssomfs2\shome\eamccullough\My Documents\Downloads\bostonbeanorderforms\bostonbeanorderforms\bostonbeanorderforms\obj\x86\Debug\bostonbeancoffeebar.xml
+\\ssomfs2\shome\eamccullough\My Documents\Downloads\bostonbeanorderforms\bostonbeanorderforms\bostonbeanorderforms\obj\x86\Debug\bostonbeancoffeebar.pdb
+\\ssomfs2\shome\eamccullough\My Documents\Downloads\bostonbeanorderforms\bostonbeanorderforms\bostonbeanorderforms\bin\Debug\bostonbeancoffeebar.exe
+\\ssomfs2\shome\eamccullough\My Documents\Downloads\bostonbeanorderforms\bostonbeanorderforms\bostonbeanorderforms\bin\Debug\bostonbeancoffeebar.pdb
+\\ssomfs2\shome\eamccullough\My Documents\Downloads\bostonbeanorderforms\bostonbeanorderforms\bostonbeanorderforms\bin\Debug\bostonbeancoffeebar.xml
+\\ssomfs2\shome\eamccullough\My Documents\Downloads\bostonbeanorderforms\bostonbeanorderforms\bostonbeanorderforms\obj\x86\Debug\ResolveAssemblyReference.cache
+\\ssomfs2\shome\eamccullough\My Documents\Downloads\bostonbeanorderforms\bostonbeanorderforms\bostonbeanorderforms\obj\x86\Debug\bostonbeancoffeebar.frmBookRental.resources
+\\ssomfs2\shome\eamccullough\My Documents\Downloads\bostonbeanorderforms\bostonbeanorderforms\bostonbeanorderforms\obj\x86\Debug\bostonbeancoffeebar.frmDefault.resources
+\\ssomfs2\shome\eamccullough\My Documents\Downloads\bostonbeanorderforms\bostonbeanorderforms\bostonbeanorderforms\obj\x86\Debug\bostonbeancoffeebar.frmReciept.resources
+\\ssomfs2\shome\eamccullough\My Documents\Downloads\bostonbeanorderforms\bostonbeanorderforms\bostonbeanorderforms\obj\x86\Debug\bostonbeancoffeebar.frmHot.resources
+\\ssomfs2\shome\eamccullough\My Documents\Downloads\bostonbeanorderforms\bostonbeanorderforms\bostonbeanorderforms\obj\x86\Debug\bostonbeancoffeebar.frmCold.resources
+\\ssomfs2\shome\eamccullough\My Documents\Downloads\bostonbeanorderforms\bostonbeanorderforms\bostonbeanorderforms\obj\x86\Debug\bostonbeancoffeebar.frmDefaultCashier.resources
+\\ssomfs2\shome\eamccullough\My Documents\Downloads\bostonbeanorderforms\bostonbeanorderforms\bostonbeanorderforms\obj\x86\Debug\bostonbeancoffeebar.frmPastries.resources
+\\ssomfs2\shome\eamccullough\My Documents\Downloads\bostonbeanorderforms\bostonbeanorderforms\bostonbeanorderforms\obj\x86\Debug\bostonbeancoffeebar.Resources.resources
+\\ssomfs2\shome\eamccullough\My Documents\Downloads\bostonbeanorderforms\bostonbeanorderforms\bostonbeanorderforms\obj\x86\Debug\GenerateResource.read.1.tlog
+\\ssomfs2\shome\eamccullough\My Documents\Downloads\bostonbeanorderforms\bostonbeanorderforms\bostonbeanorderforms\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\bostonbeanorderforms\bostonbeanorderforms\bostonbeanorderforms\obj\x86\Debug\bostonbeancoffeebar.exe
+E:\bostonbeanorderforms\bostonbeanorderforms\bostonbeanorderforms\obj\x86\Debug\bostonbeancoffeebar.xml
+E:\bostonbeanorderforms\bostonbeanorderforms\bostonbeanorderforms\obj\x86\Debug\bostonbeancoffeebar.pdb
+E:\bostonbeanorderforms\bostonbeanorderforms\bostonbeanorderforms\bin\Debug\bostonbeancoffeebar.exe
+E:\bostonbeanorderforms\bostonbeanorderforms\bostonbeanorderforms\bin\Debug\bostonbeancoffeebar.pdb
+E:\bostonbeanorderforms\bostonbeanorderforms\bostonbeanorderforms\bin\Debug\bostonbeancoffeebar.xml
+E:\bostonbeanorderforms\bostonbeanorderforms\bostonbeanorderforms\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\bostonbeanorderforms\bostonbeanorderforms\bostonbeanorderforms\obj\x86\Debug\bostonbeancoffeebar.Benefits.resources
+E:\bostonbeanorderforms\bostonbeanorderforms\bostonbeanorderforms\obj\x86\Debug\bostonbeancoffeebar.frmBookRental.resources
+E:\bostonbeanorderforms\bostonbeanorderforms\bostonbeanorderforms\obj\x86\Debug\bostonbeancoffeebar.frmReciept.resources
+E:\bostonbeanorderforms\bostonbeanorderforms\bostonbeanorderforms\obj\x86\Debug\bostonbeancoffeebar.frmHot.resources
+E:\bostonbeanorderforms\bostonbeanorderforms\bostonbeanorderforms\obj\x86\Debug\bostonbeancoffeebar.frmCold.resources
+E:\bostonbeanorderforms\bostonbeanorderforms\bostonbeanorderforms\obj\x86\Debug\bostonbeancoffeebar.frmDefaultCashier.resources
+E:\bostonbeanorderforms\bostonbeanorderforms\bostonbeanorderforms\obj\x86\Debug\bostonbeancoffeebar.frmPastries.resources
+E:\bostonbeanorderforms\bostonbeanorderforms\bostonbeanorderforms\obj\x86\Debug\bostonbeancoffeebar.Inventory.resources
+E:\bostonbeanorderforms\bostonbeanorderforms\bostonbeanorderforms\obj\x86\Debug\bostonbeancoffeebar.MainForm.resources
+E:\bostonbeanorderforms\bostonbeanorderforms\bostonbeanorderforms\obj\x86\Debug\bostonbeancoffeebar.Resources.resources
+E:\bostonbeanorderforms\bostonbeanorderforms\bostonbeanorderforms\obj\x86\Debug\bostonbeancoffeebar.Payroll.resources
+E:\bostonbeanorderforms\bostonbeanorderforms\bostonbeanorderforms\obj\x86\Debug\bostonbeancoffeebar.SOrdering.resources
+E:\bostonbeanorderforms\bostonbeanorderforms\bostonbeanorderforms\obj\x86\Debug\bostonbeancoffeebar.Supply2.resources
+E:\bostonbeanorderforms\bostonbeanorderforms\bostonbeanorderforms\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\bostonbeanorderforms\bostonbeanorderforms\bostonbeanorderforms\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\bostonbeanorderforms\bostonbeanorderforms\bostonbeanorderforms\bin\Debug\bostonbeancoffeebar.exe.manifest
+E:\bostonbeanorderforms\bostonbeanorderforms\bostonbeanorderforms\bin\Debug\bostonbeancoffeebar.application
+E:\bostonbeanorderforms\bostonbeanorderforms\bostonbeanorderforms\obj\x86\Debug\bostonbeancoffeebar.exe.manifest
+E:\bostonbeanorderforms\bostonbeanorderforms\bostonbeanorderforms\obj\x86\Debug\bostonbeancoffeebar.application
+E:\Boston Bean Coffee Bar\bostonbeanorderforms\bostonbeanorderforms\obj\x86\Debug\bostonbeancoffeebar.exe
+E:\Boston Bean Coffee Bar\bostonbeanorderforms\bostonbeanorderforms\obj\x86\Debug\bostonbeancoffeebar.xml
+E:\Boston Bean Coffee Bar\bostonbeanorderforms\bostonbeanorderforms\obj\x86\Debug\bostonbeancoffeebar.pdb
